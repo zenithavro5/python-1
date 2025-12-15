@@ -12,3 +12,9 @@ name    = "Zara Ali"   # Creates a string variable
 print (counter)
 print (miles)
 print (name)
+
+
+# Getting the type of the variable
+print(type(counter)) # it will return <class 'int'>
+print(type(miles))  # it will return <class 'float'>
+print(type(name)) # it will return <class 'str'>
